@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keeks
-- 👀 I’m interested in Distilling and AI
-- 🌱 I’m currently learning Software Engineering
+- 👀 I’m interested in Python, Javascript and AI.
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on anything
 
 <!---
