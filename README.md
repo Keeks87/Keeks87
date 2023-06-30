@@ -26,7 +26,7 @@ Let's build something together!
 - [Portfolio](https://keeks87.github.io/#about)
 - [LinkedIn](https://www.linkedin.com/in/keenan-du-plessis-4a5338b0/)
 
-- <!---
+<!---
 Keeks87/Keeks87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
