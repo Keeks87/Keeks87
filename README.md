@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keenan</h1>
 <h3 align="center">Curious, Impatience & tech-driven.</h3>
 
-<p text-align="centre"><img src="https://skillicons.dev/icons?i=git,github,docker,django,python,html,css,javascript,discord" alt="Tech Stack" /> </p>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,django,python,html,css,javascript,discord" alt="Tech Stack" /> </p>
 
 I'm a passionate developer interested in Python, Javascript, and AI. Currently, I'm diving into the world of web development.
 I enjoy exploring new technologies and collaborating on exciting projects. Let's connect and create something amazing together!
