@@ -1,5 +1,3 @@
-<img src=”https://github.com/Keeks87/Keeks87/assets/110526824/7dc439d1-f109-4a75-84c7-e6a59e73f03b" alt=”my banner”>
-
 <h1 align="center">Hi 👋, I'm Keenan</h1>
 <h3 align="center">Curious, Impatience & tech-driven.</h3>
 
