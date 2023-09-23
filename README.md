@@ -10,7 +10,6 @@ I enjoy exploring new technologies and collaborating on exciting projects. Let's
 
 ### Skills and Technologies
 
-- Python
 - JavaScript
 - AI/ML
 - Web Development
