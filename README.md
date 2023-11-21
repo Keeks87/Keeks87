@@ -33,8 +33,12 @@ I'm always excited to collaborate on interesting projects. If you have any ideas
 
 ### Let's Connect
 
-- [Portfolio](https://keeks87.github.io/#about)
-- [LinkedIn](https://www.linkedin.com/in/keenan-du-plessis-4a5338b0/)
+- ### Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2324292e.svg?&style=for-the-badge&logo=)](https://keeks87.github.io/#about)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keenan-du-plessis-4a5338b0/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/keeks87)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keeks87&show_icons=true&locale=en" alt="Keeks87's GitHub Stats" /></p>
 
