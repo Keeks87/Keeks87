@@ -38,9 +38,16 @@ I'm always excited to collaborate on interesting projects. If you have any ideas
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2324292e.svg?&style=for-the-badge&logo=)](https://keeks87.github.io/#about)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keenan-du-plessis-4a5338b0/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/keeks87)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdt13&layout=compact&theme=radical" alt="Your Top Languages">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tdt13&show_icons=true&theme=radical" alt="Your GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdt13&layout=compact&theme=radical" alt="Your Top Languages">
+</p>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tdt13&theme=radical" alt="tdt13" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keeks87&show_icons=true&locale=en" alt="Keeks87's GitHub Stats" /></p>
 
 <!---
 Keeks87/Keeks87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
