@@ -9,17 +9,14 @@ I'm a passionate developer interested in Python, JavaScript, and AI. Currently, 
 
 ### Skills and Technologies
 
-- JavaScript
-- AI/ML
-- Web Development
-- Git
-- GitHub
+- Python
 - Docker
 - Django
-- Python
+- JavaScript
+- AI/ML
+- Git
 - HTML
 - CSS
-- Discord
 
 ### Learning Goals
 
