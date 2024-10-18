@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keenan</h1>
-<h3 align="center">Curious, Impatient & Tech-driven.</h3>
+<h3 align="center">Curious, Patient & Tech-driven.</h3>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,django,python,html,css,javascript,discord" alt="Tech Stack Icons" /> </p>
 
